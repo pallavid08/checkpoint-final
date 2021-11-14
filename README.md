@@ -1,1 +1,2 @@
-# WCS Checkpoint: My Gratitude Journal
+# WCS Checkpoint
+**My Gratitude Journal**
