@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&family=Kaushan+Script&family=Meddon&family=Mr+Dafoe&family=Mr+De+Haviland&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
+
+.header {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 100px;
+}
+h1 {
+   color: #8b008b;
+   font-family: 'Poppins';
+   font-size: 50px;
+   font-weight: normal;
+}
+.tagline {
+   font-weight: lighter;
+   font-family: 'Allison';
+   font-size: 50px;
+}
